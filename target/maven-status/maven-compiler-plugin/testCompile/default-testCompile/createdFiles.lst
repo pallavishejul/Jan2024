@@ -1,0 +1,6 @@
+map\Login.class
+utility\SeleniumOperations.class
+map\Hookable.class
+practice\Tempt.class
+runner\RunTest.class
+utility\Calling.class
